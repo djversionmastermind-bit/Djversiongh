@@ -1,0 +1,41 @@
+<html b:css='false' b:defaultwidgetversion='2' b:layoutsVersion='3' b:responsive='true' b:templateVersion='1.0.0' expr:class='data:blog.languageDirection' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+4
+  <head> 
+5
+       <meta content='width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1' name='viewport'/>
+6
+    <title><data:view.title.escaped/></title>
+7
+    <link href='//1.bp.blogspot.com' rel='dns-prefetch'/>
+8
+    <link href='//2.bp.blogspot.com' rel='dns-prefetch'/>
+9
+    <link href='//3.bp.blogspot.com' rel='dns-prefetch'/>
+10
+    <link href='//4.bp.blogspot.com' rel='dns-prefetch'/>
+11
+    <link href='//www.blogger.com' rel='dns-prefetch'/>
+12
+    <link href='//dnjs.cloudflare.com' rel='dns-prefetch'/>
+13
+    <link href='//fonts.gstatic.com' rel='dns-prefetch'/>
+14
+    <link href='//pagead2.googlesyndication.com' rel='dns-prefetch'/>
+15
+    <link href='//www.googletagmanager.com' rel='dns-prefetch'/>
+16
+    <link href='//www.google-analytics.com' rel='dns-prefetch'/>
+17
+    <link href='//connect.facebook.net' rel='dns-prefetch'/>
+18
+    <link href='//c.disquscdn.com' rel='dns-prefetch'/>
+19
+    <link href='//disqus.com' rel='dns-prefetch'/>
+20
+    <b:include data='blog' name='all-head-content'/>
+21
+<b:if cond='data:view.isHomepage'> 
+22
+ <script type='application/ld+json'>{&quot;@context&quot;:&quot;http://schema.org&quot;,&quot;@type&quot;:&quot;WebSite&quot;,&quot;name&quot;:&quot;<data:view.title.escaped/>&quot;,&quot;url&quot;:&quot;<data:view.url.canonical/>&quot;,&quot;potentialAction&quot;:{&quot;@type&quot;:&quot;SearchAction&quot;,&quot;target&quot;:&quot;<data:view.url.canonical/>search?q={search_term_string}&quot;,&quot;query-input&quot;:&quot;required name=search_term_string&quot;}}</script>
+23
+    </b:if>
